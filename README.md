@@ -10,5 +10,4 @@ Fidelização de clientes atravês de sistema de pontuação, troca de pontos em
 - Validação de Vouchers
 - Envio de Emails
 
-
- - Sistema em desenvolvimento
+#### Sistema em desenvolvimento
