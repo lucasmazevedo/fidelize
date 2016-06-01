@@ -3,12 +3,12 @@ Fidelização de clientes atravês de sistema de pontuação, troca de pontos em
 
 ### Funções (Até agora!)
 
-# - Cadastro de Procedimentos Pontuados
-# - Cadastro de Clientes
-# - Geração de Pontos a cada procedimento realizado
-# - Geração de Vouchers para troca de pontos
-# - Validação de Vouchers
-# - Envio de Emails
+- Cadastro de Procedimentos Pontuados
+- Cadastro de Clientes
+- Geração de Pontos a cada procedimento realizado
+- Geração de Vouchers para troca de pontos
+- Validação de Vouchers
+- Envio de Emails
 
 
-## Sistema em desenvolvimento
+ - Sistema em desenvolvimento
